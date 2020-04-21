@@ -1,0 +1,5 @@
+C:\FXServer-Cyber\resources\[Cyber]\[Teams]\usa\Usa.Client.net.dll
+C:\FXServer-Cyber\resources\[Cyber]\[Teams]\usa\Usa.Client.net.pdb
+C:\Users\Reza\source\repos\Usa\Usa.Client.net\obj\Debug\Usa.Client.net.csprojAssemblyReference.cache
+C:\Users\Reza\source\repos\Usa\Usa.Client.net\obj\Debug\Usa.Client.net.dll
+C:\Users\Reza\source\repos\Usa\Usa.Client.net\obj\Debug\Usa.Client.net.pdb

@@ -1,0 +1,5 @@
+C:\FXServer-Cyber\resources\[Cyber]\[Teams]\russia\RussiaBase.Client.net.dll
+C:\FXServer-Cyber\resources\[Cyber]\[Teams]\russia\RussiaBase.Client.net.pdb
+C:\Users\Reza\source\repos\RussiaBase\RussiaBase.Client.net\obj\Debug\RussiaBase.Client.net.csprojAssemblyReference.cache
+C:\Users\Reza\source\repos\RussiaBase\RussiaBase.Client.net\obj\Debug\RussiaBase.Client.net.dll
+C:\Users\Reza\source\repos\RussiaBase\RussiaBase.Client.net\obj\Debug\RussiaBase.Client.net.pdb

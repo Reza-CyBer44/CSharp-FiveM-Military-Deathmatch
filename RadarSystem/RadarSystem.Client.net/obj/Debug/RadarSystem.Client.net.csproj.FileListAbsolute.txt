@@ -1,0 +1,5 @@
+C:\FXServer-Cyber\resources\[Cyber]\[Teams]\radarsystem\RadarSystem.Client.net.dll
+C:\FXServer-Cyber\resources\[Cyber]\[Teams]\radarsystem\RadarSystem.Client.net.pdb
+C:\Users\Reza\source\repos\RadarSystem\RadarSystem.Client.net\obj\Debug\RadarSystem.Client.net.csprojAssemblyReference.cache
+C:\Users\Reza\source\repos\RadarSystem\RadarSystem.Client.net\obj\Debug\RadarSystem.Client.net.dll
+C:\Users\Reza\source\repos\RadarSystem\RadarSystem.Client.net\obj\Debug\RadarSystem.Client.net.pdb

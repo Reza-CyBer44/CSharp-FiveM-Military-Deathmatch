@@ -1,0 +1,5 @@
+C:\FXServer-Cyber\resources\[Cyber]\[Enviroment]\Recoil\Recoil.Client.net.dll
+C:\FXServer-Cyber\resources\[Cyber]\[Enviroment]\Recoil\Recoil.Client.net.pdb
+C:\Users\Reza\source\repos\FirstPerson\Recoil.Client.net\obj\Debug\Recoil.Client.net.csprojAssemblyReference.cache
+C:\Users\Reza\source\repos\FirstPerson\Recoil.Client.net\obj\Debug\Recoil.Client.net.dll
+C:\Users\Reza\source\repos\FirstPerson\Recoil.Client.net\obj\Debug\Recoil.Client.net.pdb

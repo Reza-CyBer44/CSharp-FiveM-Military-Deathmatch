@@ -1,0 +1,7 @@
+C:\Users\Reza\source\repos\CapturePoints\CapturePoints.Server.net\bin\Debug\CapturePoints.Server.net.dll
+C:\Users\Reza\source\repos\CapturePoints\CapturePoints.Server.net\bin\Debug\CapturePoints.Server.net.pdb
+C:\Users\Reza\source\repos\CapturePoints\CapturePoints.Server.net\obj\Debug\CapturePoints.Server.net.csprojAssemblyReference.cache
+C:\Users\Reza\source\repos\CapturePoints\CapturePoints.Server.net\obj\Debug\CapturePoints.Server.net.dll
+C:\Users\Reza\source\repos\CapturePoints\CapturePoints.Server.net\obj\Debug\CapturePoints.Server.net.pdb
+C:\FXServer-Cyber\resources\[Cyber]\[GameMode]\PointSystem\CapturePoints.Server.net.dll
+C:\FXServer-Cyber\resources\[Cyber]\[GameMode]\PointSystem\CapturePoints.Server.net.pdb

@@ -1,0 +1,5 @@
+C:\FXServer-Cyber\resources\[Cyber]\[Teams]\blips\Blips.Client.net.dll
+C:\FXServer-Cyber\resources\[Cyber]\[Teams]\blips\Blips.Client.net.pdb
+C:\Users\Reza\source\repos\Blips\Blips.Client.net\obj\Debug\Blips.Client.net.csprojAssemblyReference.cache
+C:\Users\Reza\source\repos\Blips\Blips.Client.net\obj\Debug\Blips.Client.net.dll
+C:\Users\Reza\source\repos\Blips\Blips.Client.net\obj\Debug\Blips.Client.net.pdb

@@ -1,0 +1,5 @@
+C:\FXServer-Cyber\resources\[Cyber]\[Enviroment]\DriversOnly\DriversOnly.Client.net.dll
+C:\FXServer-Cyber\resources\[Cyber]\[Enviroment]\DriversOnly\DriversOnly.Client.net.pdb
+C:\Users\Reza\source\repos\DriversOnly\DriversOnly.Client.net\obj\Debug\DriversOnly.Client.net.csprojAssemblyReference.cache
+C:\Users\Reza\source\repos\DriversOnly\DriversOnly.Client.net\obj\Debug\DriversOnly.Client.net.dll
+C:\Users\Reza\source\repos\DriversOnly\DriversOnly.Client.net\obj\Debug\DriversOnly.Client.net.pdb
