@@ -1,0 +1,7 @@
+C:\FXServer-Cyber\resources\[Cyber]\[WhiteList Data]\WhiteList.Server.net.dll
+C:\FXServer-Cyber\resources\[Cyber]\[WhiteList Data]\WhiteList.Server.net.pdb
+C:\Users\Reza\source\repos\Whitelist\WhiteList.Server.net\obj\Debug\WhiteList.Server.net.csprojAssemblyReference.cache
+C:\Users\Reza\source\repos\Whitelist\WhiteList.Server.net\obj\Debug\WhiteList.Server.net.dll
+C:\Users\Reza\source\repos\Whitelist\WhiteList.Server.net\obj\Debug\WhiteList.Server.net.pdb
+C:\FXServer-Cyber\resources\[Cyber]\[WhiteList Data]\whitelist\WhiteList.Server.net.dll
+C:\FXServer-Cyber\resources\[Cyber]\[WhiteList Data]\whitelist\WhiteList.Server.net.pdb
